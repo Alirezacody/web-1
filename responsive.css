@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box !important;
+}
+
+@media screen and (min-width: 200px) and (max-width: 900px) {
+  .titel {
+    margin-left: 30px !important;
+  }
+
+  .label-text {
+    text-align: center;
+  }
+
+  .learn-more {
+    margin-left: 130px;
+  }
+
+  .label-image-end {
+    margin-top: 0% !important;
+  }
+
+  .list-f li {
+    padding: 0px 10px !important;
+  }
+
+  .bg-image-head {
+    background-image: url('sunnyside-agency-landing-page-main/images/mobile/image-header.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .button-respo {
+    display: block !important;
+  }
+
+  .menu-desktop {
+    display: none !important;
+  }
+
+  .sunny-head {
+    display: none;
+  }
+
+  .container-fluid {
+    padding: 0 20px !important;
+  }
+
+  .lorem-side-right {
+    text-align: center;
+  }
+
+  .img-heigh {
+    background-image: url('news-homepage-main/assets/images/image-web-3-mobile.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+}
